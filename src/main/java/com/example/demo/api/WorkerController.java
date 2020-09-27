@@ -3,7 +3,7 @@ package com.example.demo.api;
 import com.example.demo.DemoApplication;
 import com.example.demo.services.worker_service.model.Worker;
 import com.example.demo.services.worker_service.WorkerConfig;
-import com.example.demo.dto.WorkerDataFormat;
+import com.example.demo.api.dto.WorkerDataFormat;
 import javassist.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

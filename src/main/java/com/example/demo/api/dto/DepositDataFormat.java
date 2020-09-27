@@ -1,10 +1,9 @@
-package com.example.demo.dto;
+package com.example.demo.api.dto;
 
 import com.sun.istack.NotNull;
 import lombok.Builder;
 import lombok.Data;
 
-import javax.persistence.JoinColumn;
 import java.util.UUID;
 
 @Data

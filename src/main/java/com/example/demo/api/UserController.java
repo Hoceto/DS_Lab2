@@ -3,7 +3,7 @@ package com.example.demo.api;
 import com.example.demo.DemoApplication;
 import com.example.demo.services.user_service.model.User;
 import com.example.demo.services.user_service.UserConfig;
-import com.example.demo.dto.UserDataFormat;
+import com.example.demo.api.dto.UserDataFormat;
 import javassist.NotFoundException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

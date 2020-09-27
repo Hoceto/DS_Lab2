@@ -1,9 +1,9 @@
 package com.example.demo.api;
 
 import com.example.demo.DemoApplication;
-import com.example.demo.dto.CardCloseDataFormat;
-import com.example.demo.dto.CardDataFormat;
-import com.example.demo.dto.CardOperationDataFormat;
+import com.example.demo.api.dto.CardCloseDataFormat;
+import com.example.demo.api.dto.CardDataFormat;
+import com.example.demo.api.dto.CardOperationDataFormat;
 import com.example.demo.services.card_service.CardService;
 import com.example.demo.services.card_service.model.CreditCard;
 import com.example.demo.services.user_service.model.User;

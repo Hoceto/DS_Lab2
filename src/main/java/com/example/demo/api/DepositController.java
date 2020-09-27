@@ -2,9 +2,9 @@ package com.example.demo.api;
 
 import com.example.demo.DemoApplication;
 import com.example.demo.services.deposit_service.model.DepositAccount;
-import com.example.demo.dto.DepositDataFormat;
+import com.example.demo.api.dto.DepositDataFormat;
 import com.example.demo.services.deposit_service.DepositService;
-import com.example.demo.dto.DepositWithdrawDataFormat;
+import com.example.demo.api.dto.DepositWithdrawDataFormat;
 import com.example.demo.services.user_service.model.User;
 import com.example.demo.services.user_service.UserConfig;
 import com.example.demo.services.worker_service.model.Worker;
